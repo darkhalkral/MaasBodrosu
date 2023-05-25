@@ -1,0 +1,13 @@
+C:\Users\halid\source\repos\ders13.2\ders13.2\bin\Debug\ders13.2.exe.config
+C:\Users\halid\source\repos\ders13.2\ders13.2\bin\Debug\ders13.2.exe
+C:\Users\halid\source\repos\ders13.2\ders13.2\bin\Debug\ders13.2.pdb
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13.2.csproj.AssemblyReference.cache
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13._2.Form1.resources
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13._2.Properties.Resources.resources
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13.2.csproj.GenerateResource.cache
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13.2.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13.2.exe
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13.2.pdb
+C:\Users\halid\source\repos\ders13.2\ders13.2\bin\Debug\ders13.2_dll.dll
+C:\Users\halid\source\repos\ders13.2\ders13.2\bin\Debug\ders13.2_dll.pdb
+C:\Users\halid\source\repos\ders13.2\ders13.2\obj\Debug\ders13.2.csproj.CopyComplete

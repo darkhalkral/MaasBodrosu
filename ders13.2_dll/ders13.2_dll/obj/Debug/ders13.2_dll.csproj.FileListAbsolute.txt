@@ -1,0 +1,6 @@
+C:\Users\halid\source\repos\ders13.2_dll\ders13.2_dll\bin\Debug\ders13.2_dll.dll
+C:\Users\halid\source\repos\ders13.2_dll\ders13.2_dll\bin\Debug\ders13.2_dll.pdb
+C:\Users\halid\source\repos\ders13.2_dll\ders13.2_dll\obj\Debug\ders13.2_dll.csproj.AssemblyReference.cache
+C:\Users\halid\source\repos\ders13.2_dll\ders13.2_dll\obj\Debug\ders13.2_dll.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\ders13.2_dll\ders13.2_dll\obj\Debug\ders13.2_dll.dll
+C:\Users\halid\source\repos\ders13.2_dll\ders13.2_dll\obj\Debug\ders13.2_dll.pdb
